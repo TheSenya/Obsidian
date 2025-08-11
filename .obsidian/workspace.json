@@ -151,19 +151,9 @@
               "icon": "lucide-list",
               "title": "Outline of API Router"
             }
-          },
-          {
-            "id": "f343a3562bbb472d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,7 +171,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f343a3562bbb472d",
+  "active": "370e8dc912424758",
   "lastOpenFiles": [
     "Python/SQLModel/Definitions.md",
     "Python/FastAPI/API Router.md",
