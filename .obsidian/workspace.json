@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "8ba6467211a10ff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b6cf6a7b256887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431f3335a7ac55e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/SQLModel/Definitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definitions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a9c203c26bbb70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3dd68bbd1639ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed1a2a0cc9db2ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "220d0b43531ecbee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05f41df27520327b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3575f5a412ac3cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a654c41a45dce046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b911547970802e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Ubuntu/Launching Appimage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Launching Appimage"
+            }
+          },
+          {
+            "id": "114919095dce407f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Ubuntu/Launching Appimage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Launching Appimage"
+            }
+          },
+          {
+            "id": "61c5cace621f4138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "370e8dc912424758",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Ubuntu/Launching Appimage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Launching Appimage"
+            }
+          },
+          {
+            "id": "f343a3562bbb472d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "431f3335a7ac55e0",
+  "lastOpenFiles": [
+    "Linux/Ubuntu/Keybinds/Current setup keybind.md",
+    "Python/SQLModel/Definitions.md",
+    "Python/SQLModel",
+    "Python/FastAPI",
+    "Python",
+    "Linux/Ubuntu/Keybinds/Changing Keybinds.md",
+    "create a link.md",
+    "Nvim/LazyVim/Fix Double Enter,Tab and Backspace.md",
+    "Linux/Ubuntu/Desktop Files.md",
+    "Nvim/LazyVim",
+    "Nvim",
+    "Linux/Ubuntu/Appimage.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Welcome.md",
+    "Linux/Ubuntu/Untitled",
+    "Untitled.md",
+    "Linux/Ubuntu/Keybinds",
+    "Linux/Ubuntu",
+    "Linux"
+  ]
+}
