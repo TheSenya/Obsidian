@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Ubuntu/Launching Appimage.md",
+                "file": "Python/FastAPI/API Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Launching Appimage"
+              "title": "Outgoing links from API Router"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Ubuntu/Launching Appimage.md",
+                "file": "Python/FastAPI/API Router.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Launching Appimage"
+              "title": "Outline of API Router"
             }
           },
           {
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "431f3335a7ac55e0",
+  "active": "220d0b43531ecbee",
   "lastOpenFiles": [
     "Python/SQLModel/Definitions.md",
     "Python/FastAPI/API Router.md",
